@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/logger"
 )
 
 // DirectoryUploadManager is used to manage file uploads on an interval from a directory

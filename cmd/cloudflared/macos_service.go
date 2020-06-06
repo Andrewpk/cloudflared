@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/urfave/cli.v2"
 
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/logger"
 	"github.com/pkg/errors"
 )
 

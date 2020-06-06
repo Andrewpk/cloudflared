@@ -1,7 +1,7 @@
 using Go = import "go.capnp";
 @0x8f43375162194466;
 $Go.package("sshlog");
-$Go.import("github.com/cloudflare/cloudflared/sshlog");
+$Go.import("github.com/androok/cloudflared/sshlog");
 
 struct SessionLog {
     timestamp @0 :Text;

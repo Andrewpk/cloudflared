@@ -3,7 +3,7 @@ package tunnelrpc
 import (
 	"context"
 
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/logger"
 	"golang.org/x/net/trace"
 	"zombiezen.com/go/capnproto2/rpc"
 )

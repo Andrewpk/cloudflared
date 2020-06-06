@@ -11,8 +11,8 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudflare/cloudflared/logger"
-	tunnelpogs "github.com/cloudflare/cloudflared/tunnelrpc/pogs"
+	"github.com/androok/cloudflared/logger"
+	tunnelpogs "github.com/androok/cloudflared/tunnelrpc/pogs"
 )
 
 func testConfig(logger logger.Service) *TunnelConfig {

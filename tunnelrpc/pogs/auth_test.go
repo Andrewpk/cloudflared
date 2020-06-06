@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cloudflare/cloudflared/tunnelrpc"
+	"github.com/androok/cloudflared/tunnelrpc"
 	"github.com/stretchr/testify/assert"
 	capnp "zombiezen.com/go/capnproto2"
 )

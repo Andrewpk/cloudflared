@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/access"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/cmd/cloudflared/access"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/logger"
 )
 
 // ForwardServiceType is used to identify what kind of overwatch service this is

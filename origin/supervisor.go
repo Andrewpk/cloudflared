@@ -10,13 +10,13 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/cloudflare/cloudflared/buffer"
-	"github.com/cloudflare/cloudflared/connection"
-	"github.com/cloudflare/cloudflared/edgediscovery"
-	"github.com/cloudflare/cloudflared/h2mux"
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/signal"
-	tunnelpogs "github.com/cloudflare/cloudflared/tunnelrpc/pogs"
+	"github.com/androok/cloudflared/buffer"
+	"github.com/androok/cloudflared/connection"
+	"github.com/androok/cloudflared/edgediscovery"
+	"github.com/androok/cloudflared/h2mux"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/signal"
+	tunnelpogs "github.com/androok/cloudflared/tunnelrpc/pogs"
 )
 
 const (

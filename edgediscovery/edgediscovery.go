@@ -5,8 +5,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/cloudflare/cloudflared/edgediscovery/allregions"
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/edgediscovery/allregions"
+	"github.com/androok/cloudflared/logger"
 )
 
 const (

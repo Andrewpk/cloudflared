@@ -1,8 +1,8 @@
 package tunnel
 
 import (
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/tunneldns"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/tunneldns"
 
 	"gopkg.in/urfave/cli.v2"
 

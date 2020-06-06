@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/logger"
 	"github.com/pkg/errors"
 	cli "gopkg.in/urfave/cli.v2"
 )

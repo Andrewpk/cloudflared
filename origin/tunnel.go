@@ -19,16 +19,16 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/cloudflare/cloudflared/buffer"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/buildinfo"
-	"github.com/cloudflare/cloudflared/connection"
-	"github.com/cloudflare/cloudflared/h2mux"
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/signal"
-	"github.com/cloudflare/cloudflared/tunnelrpc"
-	tunnelpogs "github.com/cloudflare/cloudflared/tunnelrpc/pogs"
-	"github.com/cloudflare/cloudflared/validation"
-	"github.com/cloudflare/cloudflared/websocket"
+	"github.com/androok/cloudflared/buffer"
+	"github.com/androok/cloudflared/cmd/cloudflared/buildinfo"
+	"github.com/androok/cloudflared/connection"
+	"github.com/androok/cloudflared/h2mux"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/signal"
+	"github.com/androok/cloudflared/tunnelrpc"
+	tunnelpogs "github.com/androok/cloudflared/tunnelrpc/pogs"
+	"github.com/androok/cloudflared/validation"
+	"github.com/androok/cloudflared/websocket"
 )
 
 const (

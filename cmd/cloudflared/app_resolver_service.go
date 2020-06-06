@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/tunneldns"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/tunneldns"
 )
 
 // ResolverServiceType is used to identify what kind of overwatch service this is

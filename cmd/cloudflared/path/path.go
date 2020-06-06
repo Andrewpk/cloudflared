@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
 	"github.com/mitchellh/go-homedir"
 )
 

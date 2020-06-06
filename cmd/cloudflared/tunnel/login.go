@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/transfer"
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/cmd/cloudflared/transfer"
+	"github.com/androok/cloudflared/logger"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/pkg/errors"
 	cli "gopkg.in/urfave/cli.v2"

@@ -3,7 +3,7 @@ package buildinfo
 import (
 	"runtime"
 
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/logger"
 )
 
 type BuildInfo struct {

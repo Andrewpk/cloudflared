@@ -12,9 +12,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/encrypter"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/shell"
-	"github.com/cloudflare/cloudflared/logger"
+	"github.com/androok/cloudflared/cmd/cloudflared/encrypter"
+	"github.com/androok/cloudflared/cmd/cloudflared/shell"
+	"github.com/androok/cloudflared/logger"
 )
 
 const (

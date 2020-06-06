@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/cloudflare/cloudflared/hello"
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/tlsconfig"
+	"github.com/androok/cloudflared/hello"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/tlsconfig"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/websocket"
 )

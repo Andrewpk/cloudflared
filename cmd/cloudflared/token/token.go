@@ -11,11 +11,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/config"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/path"
-	"github.com/cloudflare/cloudflared/cmd/cloudflared/transfer"
-	"github.com/cloudflare/cloudflared/logger"
-	"github.com/cloudflare/cloudflared/origin"
+	"github.com/androok/cloudflared/cmd/cloudflared/config"
+	"github.com/androok/cloudflared/cmd/cloudflared/path"
+	"github.com/androok/cloudflared/cmd/cloudflared/transfer"
+	"github.com/androok/cloudflared/logger"
+	"github.com/androok/cloudflared/origin"
 	"github.com/coreos/go-oidc/jose"
 )
 
