@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
-	"github.com/androok/cloudflared/sshgen"
-	"github.com/androok/cloudflared/sshlog"
+	"github.com/andrewpk/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/sshgen"
+	"github.com/andrewpk/cloudflared/sshlog"
 	"github.com/gliderlabs/ssh"
 	"github.com/google/uuid"
 	"github.com/pkg/errors"

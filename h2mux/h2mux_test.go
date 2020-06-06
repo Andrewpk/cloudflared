@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/sync/errgroup"

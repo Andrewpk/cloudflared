@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 )
 
 // Regions stores Cloudflare edge network IPs, partitioned into two regions.

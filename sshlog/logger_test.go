@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 )
 
 const logFileName = "test-logger.log"

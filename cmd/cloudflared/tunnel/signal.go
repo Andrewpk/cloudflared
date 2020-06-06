@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 )
 
 // waitForSignal notifies all routines to shutdownC immediately by closing the

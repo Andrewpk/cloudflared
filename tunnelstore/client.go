@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 	"github.com/pkg/errors"
 )
 

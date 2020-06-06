@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 )
 
 const (

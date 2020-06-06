@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/androok/cloudflared/validation"
+	"github.com/andrewpk/cloudflared/validation"
 	homedir "github.com/mitchellh/go-homedir"
 	"gopkg.in/urfave/cli.v2"
 	"gopkg.in/urfave/cli.v2/altsrc"

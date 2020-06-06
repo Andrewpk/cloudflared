@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/androok/cloudflared/dbconnect"
+	"github.com/andrewpk/cloudflared/dbconnect"
 )
 
 func TestIntegrationPostgreSQL(t *testing.T) {

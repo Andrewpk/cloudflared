@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 	"github.com/golang-collections/collections/queue"
 	"github.com/prometheus/client_golang/prometheus"
 )

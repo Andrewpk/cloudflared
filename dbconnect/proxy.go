@@ -10,9 +10,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/androok/cloudflared/hello"
-	"github.com/androok/cloudflared/logger"
-	"github.com/androok/cloudflared/validation"
+	"github.com/andrewpk/cloudflared/hello"
+	"github.com/andrewpk/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/validation"
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
 )

@@ -6,10 +6,10 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/androok/cloudflared/cmd/cloudflared/token"
-	"github.com/androok/cloudflared/logger"
-	"github.com/androok/cloudflared/socks"
-	cfwebsocket "github.com/androok/cloudflared/websocket"
+	"github.com/andrewpk/cloudflared/cmd/cloudflared/token"
+	"github.com/andrewpk/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/socks"
+	cfwebsocket "github.com/andrewpk/cloudflared/websocket"
 	"github.com/gorilla/websocket"
 )
 

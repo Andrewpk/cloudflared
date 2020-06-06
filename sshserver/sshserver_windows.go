@@ -7,8 +7,8 @@ import (
 
 	"time"
 
-	"github.com/androok/cloudflared/logger"
-	"github.com/androok/cloudflared/sshlog"
+	"github.com/andrewpk/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/sshlog"
 )
 
 const SSHPreambleLength = 2

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 	capnp "zombiezen.com/go/capnproto2"
 )
 

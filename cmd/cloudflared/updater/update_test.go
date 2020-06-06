@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/logger"
 	"github.com/facebookgo/grace/gracenet"
 	"github.com/stretchr/testify/assert"
 )

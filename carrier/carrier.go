@@ -10,9 +10,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/androok/cloudflared/cmd/cloudflared/token"
-	"github.com/androok/cloudflared/h2mux"
-	"github.com/androok/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/cmd/cloudflared/token"
+	"github.com/andrewpk/cloudflared/h2mux"
+	"github.com/andrewpk/cloudflared/logger"
 	"github.com/pkg/errors"
 )
 

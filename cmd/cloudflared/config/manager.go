@@ -4,8 +4,8 @@ import (
 	"errors"
 	"os"
 
-	"github.com/androok/cloudflared/logger"
-	"github.com/androok/cloudflared/watcher"
+	"github.com/andrewpk/cloudflared/logger"
+	"github.com/andrewpk/cloudflared/watcher"
 	"gopkg.in/yaml.v2"
 )
 
