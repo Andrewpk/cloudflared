@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/andrewpk/cloudflared/h2mux"
+	"github.com/Andrewpk/cloudflared/h2mux"
 
 	"github.com/prometheus/client_golang/prometheus"
 )

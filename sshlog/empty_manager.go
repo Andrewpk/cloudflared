@@ -3,7 +3,7 @@ package sshlog
 import (
 	"io"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 )
 
 //empty manager implements the Manager but does nothing (for testing and to disable logging unless the logs are set)

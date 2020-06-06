@@ -1,7 +1,7 @@
 using Go = import "go.capnp";
 @0xdb8274f9144abc7e;
 $Go.package("tunnelrpc");
-$Go.import("github.com/andrewpk/cloudflared/tunnelrpc");
+$Go.import("github.com/Andrewpk/cloudflared/tunnelrpc");
 
 struct Authentication {
     key @0 :Text;

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/andrewpk/cloudflared/tunnelrpc"
+	"github.com/Andrewpk/cloudflared/tunnelrpc"
 
 	capnp "zombiezen.com/go/capnproto2"
 	"zombiezen.com/go/capnproto2/pogs"

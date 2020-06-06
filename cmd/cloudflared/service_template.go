@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"text/template"
 
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
 	"github.com/mitchellh/go-homedir"
 )
 

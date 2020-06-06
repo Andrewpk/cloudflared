@@ -3,7 +3,7 @@ package allregions
 import (
 	"testing"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/stretchr/testify/assert"
 )
 

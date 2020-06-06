@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/getsentry/raven-go"
 	"github.com/pkg/errors"
 	"gopkg.in/urfave/cli.v2"

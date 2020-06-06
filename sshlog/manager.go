@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 )
 
 // Manager be managing logs bruh

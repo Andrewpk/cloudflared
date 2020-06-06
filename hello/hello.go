@@ -12,10 +12,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/gorilla/websocket"
 
-	"github.com/andrewpk/cloudflared/tlsconfig"
+	"github.com/Andrewpk/cloudflared/tlsconfig"
 )
 
 type templateData struct {

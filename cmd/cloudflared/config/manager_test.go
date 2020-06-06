@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/watcher"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/watcher"
 	"github.com/stretchr/testify/assert"
 )
 

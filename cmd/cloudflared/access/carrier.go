@@ -5,11 +5,11 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/andrewpk/cloudflared/carrier"
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
-	"github.com/andrewpk/cloudflared/h2mux"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/validation"
+	"github.com/Andrewpk/cloudflared/carrier"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
+	"github.com/Andrewpk/cloudflared/h2mux"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/validation"
 	"github.com/pkg/errors"
 	cli "gopkg.in/urfave/cli.v2"
 )

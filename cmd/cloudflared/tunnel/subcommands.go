@@ -10,10 +10,10 @@ import (
 	"gopkg.in/urfave/cli.v2"
 	"gopkg.in/yaml.v2"
 
-	"github.com/andrewpk/cloudflared/certutil"
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/cliutil"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/tunnelstore"
+	"github.com/Andrewpk/cloudflared/certutil"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/cliutil"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/tunnelstore"
 )
 
 var (

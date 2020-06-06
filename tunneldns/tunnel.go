@@ -8,9 +8,9 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/metrics"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/metrics"
 
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/plugin"

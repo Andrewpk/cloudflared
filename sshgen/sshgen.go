@@ -15,8 +15,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
-	cfpath "github.com/andrewpk/cloudflared/cmd/cloudflared/path"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
+	cfpath "github.com/Andrewpk/cloudflared/cmd/cloudflared/path"
 	"github.com/coreos/go-oidc/jose"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/pkg/errors"

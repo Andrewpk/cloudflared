@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 )
 
 // waitForSignal notifies all routines to shutdownC immediately by closing the

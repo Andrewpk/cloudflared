@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/stretchr/testify/assert"
 )
 

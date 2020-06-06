@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/hpack"
 )

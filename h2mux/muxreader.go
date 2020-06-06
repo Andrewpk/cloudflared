@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"golang.org/x/net/http2"
 )
 

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	ws "github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 )

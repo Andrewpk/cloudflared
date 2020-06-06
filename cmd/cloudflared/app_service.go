@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/overwatch"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/overwatch"
 )
 
 // AppService is the main service that runs when no command lines flags are passed to cloudflared

@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/sshgen"
-	"github.com/andrewpk/cloudflared/sshlog"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/sshgen"
+	"github.com/Andrewpk/cloudflared/sshlog"
 	"github.com/gliderlabs/ssh"
 	"github.com/google/uuid"
 	"github.com/pkg/errors"

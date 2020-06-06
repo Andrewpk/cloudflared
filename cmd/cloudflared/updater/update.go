@@ -10,7 +10,7 @@ import (
 	"golang.org/x/crypto/ssh/terminal"
 	"gopkg.in/urfave/cli.v2"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/equinox-io/equinox"
 	"github.com/facebookgo/grace/gracenet"
 	"github.com/pkg/errors"

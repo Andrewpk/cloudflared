@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"context"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"zombiezen.com/go/capnproto2/encoding/text"
 	"zombiezen.com/go/capnproto2/rpc"
 	rpccapnp "zombiezen.com/go/capnproto2/std/capnp/rpc"

@@ -3,7 +3,7 @@ package pogs
 import (
 	"context"
 
-	"github.com/andrewpk/cloudflared/tunnelrpc"
+	"github.com/Andrewpk/cloudflared/tunnelrpc"
 	"zombiezen.com/go/capnproto2/server"
 )
 

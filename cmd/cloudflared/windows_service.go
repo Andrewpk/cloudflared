@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/logger"
 	"github.com/pkg/errors"
 	cli "gopkg.in/urfave/cli.v2"
 

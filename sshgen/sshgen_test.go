@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/andrewpk/cloudflared/cmd/cloudflared/config"
-	cfpath "github.com/andrewpk/cloudflared/cmd/cloudflared/path"
+	"github.com/Andrewpk/cloudflared/cmd/cloudflared/config"
+	cfpath "github.com/Andrewpk/cloudflared/cmd/cloudflared/path"
 	"github.com/coreos/go-oidc/jose"
 	"github.com/stretchr/testify/assert"
 )

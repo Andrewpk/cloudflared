@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/andrewpk/cloudflared/h2mux"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/sshserver"
+	"github.com/Andrewpk/cloudflared/h2mux"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/sshserver"
 	"github.com/gorilla/websocket"
 )
 

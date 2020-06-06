@@ -7,10 +7,10 @@ import (
 
 	rpc "zombiezen.com/go/capnproto2/rpc"
 
-	"github.com/andrewpk/cloudflared/h2mux"
-	"github.com/andrewpk/cloudflared/logger"
-	"github.com/andrewpk/cloudflared/tunnelrpc"
-	tunnelpogs "github.com/andrewpk/cloudflared/tunnelrpc/pogs"
+	"github.com/Andrewpk/cloudflared/h2mux"
+	"github.com/Andrewpk/cloudflared/logger"
+	"github.com/Andrewpk/cloudflared/tunnelrpc"
+	tunnelpogs "github.com/Andrewpk/cloudflared/tunnelrpc/pogs"
 )
 
 // NewRPCClient creates and returns a new RPC client, which will communicate
